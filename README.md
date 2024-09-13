@@ -5,7 +5,7 @@ Skincare Application
 ## Overview
 
 **Project Title:** Mirror  
-**Status:** In Progress  
+**Status:** In Progress, Design and Code  
 **Developers:** Geovanni Cuevas and Chebet Ng'eny  
 **Duration:** [Add Project Duration]  
 **Institution/Team:** Black, Latinx, and Queer Developed  
